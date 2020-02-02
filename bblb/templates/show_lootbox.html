@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block body %}
+
+  <div class = "buttonarea">
+    <a href="/result" class="btn">Open the Loot Box</a>
+  </div>
+
+  <div class="result">
+    {% for menu in menus %}
+    <div class="box menu">
+      <h2>{{ menu.name }}</h2>
+        <p>${{ menu.price }}<p>
+    </div>
+    {% else %}
+    {% endfor %}
+    {% if menus %}
+    <div class="box rst">
+      <h2>Total: ${{ budget }}</h2>
+    </div>
+    {% endif %}
+  </div>
+
+{% endblock %}
