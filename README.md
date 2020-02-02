@@ -1,6 +1,6 @@
 # BeyuBlueLootBox
 
-Access from [Here](https://beyublue-pj1.appspot.com/)
+Access from [Here](https://pj1-bblb.appspot.com/)
 
 [Demo](https://youtu.be/RTkC_XJJ-R4)
 
