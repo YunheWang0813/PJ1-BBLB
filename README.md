@@ -11,6 +11,7 @@ It randomly suggests coffees that can be bought under $10 in total.
 I'm a coffee junkie so I made this app for me to decide the coffee menu for each day!
 
 # Direction
+* virtual environment ```source venv/bin/activate```
 * install software: ```make install```
 * test code: ```make test```
 * lint code: ```make lint```
