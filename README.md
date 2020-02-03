@@ -18,3 +18,7 @@ I'm a coffee junkie so I made this app for me to decide the coffee menu for each
 
 # References
 https://github.com/marushosummers/Saizeriya_1000yen
+
+https://github.com/noahgift/delivery
+
+https://cloud.google.com/source-repositories/docs/quickstart-triggering-builds-with-source-repositories
